@@ -1,4 +1,4 @@
-# Machine-Learninhg
+# Machine-Learning
 Name: BADETI PARAMESWARA MANIKANTA VENKATA KONDASAI KALYAN
 //
 Student ID: 700747817
